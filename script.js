@@ -61,17 +61,17 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   const projectData = [
     {
       title: 'Hospital Website',
-      image: 'img/p1.png',
+      image: 'p1.png',
       description: 'A modern hospital website offering patient care info, appointment booking, and service details with responsive, user-friendly design.'
     },
     {
       title: 'E-Commerce Website',
-      image: 'img/p2.png',
+      image: 'p2.png',
       description: 'Innovative e-commerce platform delivering seamless shopping experiences with secure payments and personalized customer service.'
     },
     {
       title: 'Cosmetics Website',
-      image: 'img/p3.png',
+      image: 'p3.png',
       description: 'Passionate about beauty, delivering innovative skincare and makeup solutions that enhance confidence and natural glow.'
     }
   ];
